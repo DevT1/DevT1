@@ -9,12 +9,12 @@ Welcome to my GitHub profile! I'm passionate about building software, learning n
 ## 🚀 About Me
 
 - 🎓 Degree: Electrical & Computer Engineering
-- 💼 Current Position:
-- 🌎 Location:
-- 💡 Interests: 
+- 💼 Current Position: Integration Engineer
+- 🌎 Location: USA
+- 💡 Interests: Embedded Programming, Robotics, Rockets, Microcontrollers
 - 🌱 Currently Learning: Bash Scripting
-- 🎯 Career Goals: Linux Sys Admin, 
-- ⚡ Fun Fact:
+- 🎯 Career Goals: Linux Sys Admin, Embedded Programmer
+- ⚡ Fun Fact: I'm double jointed in both of my hands
 
 ---
 
